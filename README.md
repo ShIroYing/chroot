@@ -1,2 +1,5 @@
-# chroot
-www 2 root / root 2 www
+# Chroot
+
+`www` domain -> _root_ domain
+
+_root_ domain -> `www` domain
